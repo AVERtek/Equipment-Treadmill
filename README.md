@@ -1,2 +1,2 @@
-# Equipment-Treadmill
-Treadmill AR
+# Apartment
+AR Apartment
