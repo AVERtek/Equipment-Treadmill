@@ -1,4 +1,4 @@
-### Your Community Name Here <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Equipment Name & Model Here <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
